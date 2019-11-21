@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.114
 - name: golang-bdd-test
   repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
+  version: 0.0.2
 - name: golang-refactoring
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
