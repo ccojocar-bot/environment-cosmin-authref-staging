@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.114
+- name: golang-bdd-test
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
 - name: golang-refactoring
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
